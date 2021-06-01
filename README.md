@@ -42,6 +42,7 @@ NIM:311910405
 
 
 #Buat file baru dengan nama hapus.php
+
 ![Screenshot_163](https://user-images.githubusercontent.com/81457697/120260478-309c6f80-c2c0-11eb-9e93-5215fcd183a4.png)
 ![Screenshot_152](https://user-images.githubusercontent.com/81457697/120260500-3c883180-c2c0-11eb-8783-29ec9070df6f.png)
 
